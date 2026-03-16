@@ -1,0 +1,10 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 120 40" fill="none">
+  <g stroke="#111" stroke-width="2.3" stroke-linecap="round" stroke-linejoin="round">
+    <path d="M14 10h12v12H14z"/>
+    <path d="M20 10V4"/>
+    <path d="M17 7h6"/>
+    <path d="M35 10v18"/>
+    <path d="M31 14l4-4 4 4"/>
+  </g>
+  <text x="48" y="25" font-family="Arial, Helvetica, sans-serif" font-size="11" font-weight="700" fill="#111">OnePlus</text>
+</svg>
