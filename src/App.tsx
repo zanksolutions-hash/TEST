@@ -25,14 +25,14 @@ import repair2 from "./assets/repairs/repair-2.jpeg";
 import repair3 from "./assets/repairs/repair-3.jpeg";
 import repair4 from "./assets/repairs/repair-4.jpeg";
 import repair5 from "./assets/repairs/repair-5.jpeg";
-import appleLogo from "./assets/brands/apple.svg";
-import googleLogo from "./assets/brands/google.svg";
-import huaweiLogo from "./assets/brands/huawei.svg";
-import oneplusLogo from "./assets/brands/oneplus.svg";
+import appleLogo from "./assets/brands/apple.png";
+import googleLogo from "./assets/brands/google.png";
+import huaweiLogo from "./assets/brands/huawei.png";
+import oneplusLogo from "./assets/brands/oneplus.png";
 import oppoLogo from "./assets/brands/oppo.svg";
 import redmiLogo from "./assets/brands/redmi.svg";
-import samsungLogo from "./assets/brands/samsung.svg";
-import xiaomiLogo from "./assets/brands/xiaomi.svg";
+import samsungLogo from "./assets/brands/samsung.png";
+import xiaomiLogo from "./assets/brands/xiaomi.png";
 
 const fadeUp = {
   initial: { opacity: 0, y: 18 },
@@ -483,7 +483,7 @@ export default function App() {
 
               <div className="mt-12">
                 <p className="mb-5 text-sm font-semibold uppercase tracking-[0.18em] text-black/42">
-                  Nous avons une solution.
+                  Nous avons une solution
                 </p>
                 <div className="grid gap-4 sm:grid-cols-3">
                 <div className="rounded-[1.75rem] border border-black/8 bg-white p-5 shadow-sm">
